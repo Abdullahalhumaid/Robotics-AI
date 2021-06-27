@@ -8,6 +8,9 @@ In order to have successful simulation and setp by step instructions for saving 
 at the begining visited the website below; 
 https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/ Open the Ubuntu 18.04 terminal and copied the following commands.
 
+
+HINT#1: open a new termenal for the master node by typing in the command ($ roscore) 
+
 -- From the left side tap for (PC SET-UP) -- 
 FIRST GO TO: 
 3. Quick Start Guide> 3.1 PC Setup from very top, before copying and pasting, check model of your system if its, kinetic or other versions,
@@ -23,6 +26,8 @@ LASTLY GO TO:
 3. 1. 5. Set TurtleBot3 Model Name, - cope & paste the command to the treminal and choose the preffered model (TurtleBot3 Burger OR TurtleBot3 Waffle Pi)
 
 
+HINT#2: open onther new termenal for the GAZEBO SIMULATION - node
+
 -- From the left side tap for (GAZEBO SIMULATION) --
 FIRST GO TO: 
 6. SIMULATION > 6.1 Gazebo Simulation, before copying and pasting, check model of your system if its, kinetic or other versions,
@@ -35,6 +40,8 @@ THEN GO TO:
 LASTLY GO TO: 
 6. 1. 3. Operate TurtleBot3  - cope & paste the commands to the terminal to run it
 
+HINT#3: open onther new termenal for the SLAM SIMULATION - node
+
 -- From the left side tap for (SLAM SIMULATION) --
 FIST GO TO: 
 6. SIMULATION > 6.2 SLAM Simulation, before copying and pasting, check model of your system if its, kinetic or other versions,
@@ -44,5 +51,7 @@ THEN GO TO:
 6. 2. 1.Launch Simulation World, - cope & paste the commands to the terminal 
 THEN GO TO: 
 6. 2. 2. Run SLAM Node - cope & paste the commands to the terminal
+
+HINT#4: open onther new termenal for the Teleoperation - node
 LASTLY GO TO: 
 6. 2. 3. Run Teleoperation Node, - cope & paste the commands to the terminal to run it
