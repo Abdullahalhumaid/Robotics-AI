@@ -72,4 +72,4 @@ ENJOY YOUR TOUR AROUND AREA!!!
 
 After the Robor finally discoved the whole map successfully, you could just save your G-MAP by using this command ($ rosrun map_server map_saver -f ~/map)
  If you would like to quit jus hit (CTRL-C) in the termenal to cancel this mission.
-
+ 
