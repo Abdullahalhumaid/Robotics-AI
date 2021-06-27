@@ -1,0 +1,23 @@
+Task overview: 
+For this task, it was an exercise to create a localization & mapping methodology for robotic navigation & mapping by using the Turtlebot3 platform
+gazebo simulation & Rviz application and that would gives us the visualization of the Robot the movements with using SLAM approach. 
+
+After installing the required software applications including; ROS, Rviz, & gazebo. 
+
+In order to have successful simulation and setp by step instructions for saving the final view of the G-map, 
+at the begining visited the website below; 
+https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/ Open the Ubuntu 18.04 terminal and copied the following commands 
+
+from the lett side tap
+GO TO: 
+3. Quick Start Guide> 3.1 PC Setup from very top, before copying and pasting, check model of your system if its, kinetic or other version,
+maine is Melodic, so cleck on your downloaded verion.
+
+THEN GO TO: 
+3. 1. 2. Install ROS 1 on Remote PC and cope & paste the commands to the terminal 
+THEN GO TO: 
+3. 1. 3. Install Dependent ROS 1 Packages, and cope & paste the commands to the terminal 
+THEN GO TO: 
+3. 1. 4. Install TurtleBot3 Packages, and cope & paste the commands to the terminal 
+THEN GO TO: 
+3. 1. 5. Set TurtleBot3 Model Name, and cope & paste the command to the treminal and choose the preffered model (TurtleBot3 Burger OR TurtleBot3 Waffle Pi)
