@@ -2,7 +2,7 @@ Task overview:
 For this task, it was an exercise to create a localization & mapping methodology for robotic navigation & mapping by using the Turtlebot3 platform
 gazebo simulation & Rviz application and that would gives us the visualization of the Robot the movements with using SLAM approach. 
 
-After installing the required software applications including; ROS, Rviz, & gazebo. 
+Before starting, make sure these applications are already installed; ROS, Rviz, and gazebo.
 
 In order to have successful simulation and setp by step instructions for saving the final view of the G-map, 
 at the begining visited the website below; 
