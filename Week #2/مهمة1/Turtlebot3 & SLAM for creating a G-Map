@@ -8,29 +8,41 @@ In order to have successful simulation and setp by step instructions for saving 
 at the begining visited the website below; 
 https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/ Open the Ubuntu 18.04 terminal and copied the following commands.
 
-From the left side tap for (PC SET-UP)
-GO TO: 
+-- From the left side tap for (PC SET-UP) -- 
+FIRST GO TO: 
 3. Quick Start Guide> 3.1 PC Setup from very top, before copying and pasting, check model of your system if its, kinetic or other versions,
 maine is Melodic, so cleck on your downloaded verion.
 
 THEN GO TO: 
-3. 1. 2. Install ROS 1 on Remote PC and cope & paste the commands to the terminal 
+3. 1. 2. Install ROS 1 on Remote PC - cope & paste the commands to the terminal 
 THEN GO TO: 
-3. 1. 3. Install Dependent ROS 1 Packages, and cope & paste the commands to the terminal 
+3. 1. 3. Install Dependent ROS 1 Packages, - cope & paste the commands to the terminal 
 THEN GO TO: 
-3. 1. 4. Install TurtleBot3 Packages, and cope & paste the commands to the terminal 
+3. 1. 4. Install TurtleBot3 Packages, - cope & paste the commands to the terminal 
 LASTLY GO TO: 
-3. 1. 5. Set TurtleBot3 Model Name, and cope & paste the command to the treminal and choose the preffered model (TurtleBot3 Burger OR TurtleBot3 Waffle Pi)
+3. 1. 5. Set TurtleBot3 Model Name, - cope & paste the command to the treminal and choose the preffered model (TurtleBot3 Burger OR TurtleBot3 Waffle Pi)
 
 
-From the left side tap for (GAZEBO SIMULATION)
-GO TO: 
-6. SIMULATION > Gazebo Simulation, before copying and pasting, check model of your system if its, kinetic or other versions,
+-- From the left side tap for (GAZEBO SIMULATION) --
+FIRST GO TO: 
+6. SIMULATION > 6.1 Gazebo Simulation, before copying and pasting, check model of your system if its, kinetic or other versions,
 maine is Melodic, so cleck on your downloaded verion.
 
 THEN GO TO: 
-6. 1. 1. Install Simulation Package and cope & paste the commands to the terminal 
+6. 1. 1. Install Simulation Package - cope & paste the commands to the terminal 
 THEN GO TO: 
-6. 1. 2. Launch Simulation World and cope & paste the commands to the terminal of the (TurtleBot3 World)
+6. 1. 2. Launch Simulation World - cope & paste the commands to the terminal of the (TurtleBot3 World)
 LASTLY GO TO: 
-6. 1. 3. Operate TurtleBot3  and cope & paste the commands to the terminal to run it
+6. 1. 3. Operate TurtleBot3  - cope & paste the commands to the terminal to run it
+
+-- From the left side tap for (SLAM SIMULATION) --
+FIST GO TO: 
+6. SIMULATION > 6.2 SLAM Simulation, before copying and pasting, check model of your system if its, kinetic or other versions,
+maine is Melodic, so cleck on your downloaded verion.
+
+THEN GO TO: 
+6. 2. 1.Launch Simulation World, - cope & paste the commands to the terminal 
+THEN GO TO: 
+6. 2. 2. Run SLAM Node - cope & paste the commands to the terminal
+LASTLY GO TO: 
+6. 2. 3. Run Teleoperation Node, - cope & paste the commands to the terminal to run it
