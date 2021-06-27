@@ -73,12 +73,11 @@ ENJOY YOUR TOUR AROUND THE AREA!!!
 After the Robor finally discovered the whole map successfully, you could just save your G-MAP by using this command ($ rosrun map_server map_saver -f ~/map)
  If you would like to quit just hit (CTRL-C) in the terminal to cancel this mission.
  
-In conclusion, if you would like to view the may you have created, 
-
+In conclusion, if you would like to view the map you have created, 
 GO TO,
 Files> Home> then you will find the G-Map file named as (map.pgm)
 
-Thank you for following my instructions, I hope you have learned something enjoyed it!
+Thank you for following my instructions, I hope you have learned something new and enjoyed it!
 
 Best Regards,
 Abdullah
